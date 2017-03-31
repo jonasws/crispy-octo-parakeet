@@ -124,7 +124,7 @@ const Presentation = () =>
         <ListItem>Nyttig for IoT-applikasjoner</ListItem>
         <Appear><ListItem textColor="quintenary">Fungerer i Chrome 56</ListItem></Appear>
         <Appear><ListItem textColor="quintenary">Kun over HTTPS</ListItem></Appear>
-        <ListItem><a href="href=https://github.com/WebBluetoothCG/demos">Demos!</a></ListItem>
+        <ListItem><a href="https://github.com/WebBluetoothCG/demos">Demos!</a></ListItem>
       </List>
     </Slide>
 
