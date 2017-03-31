@@ -4,7 +4,6 @@ import { render } from "react-dom";
 import Presentation from "./presentation";
 
 
-
 // Hack to ease use of new Android Wear watch!
 /* window.addEventListener("click", (event) => {
  *   event.preventDefault();
